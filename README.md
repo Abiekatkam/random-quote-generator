@@ -15,6 +15,7 @@ npm install
 npm run dev
 ```
 
-## Refernce
+## Reference
 
 * Website: [Coding Nepal](https://www.codingnepalweb.com/random-quote-generator-html-javascript/#google_vignette)
+  
