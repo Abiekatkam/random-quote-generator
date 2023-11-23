@@ -8,3 +8,10 @@ The React and Tailwind-powered Random Quote Generator provides users with a slee
 ```sh
 npm install 
 ```
+
+## Run test
+
+```sh
+npm run dev
+```
+
