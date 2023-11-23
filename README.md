@@ -17,4 +17,4 @@ npm run dev
 
 ## Refernce
 
-* Website: https://www.codingnepalweb.com/random-quote-generator-html-javascript/#google_vignette 
+* Website: [Coding Nepal](<%= https://www.codingnepalweb.com/random-quote-generator-html-javascript/#google_vignette %>)
